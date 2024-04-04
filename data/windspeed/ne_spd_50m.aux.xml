@@ -1,0 +1,15 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>ne_spd_50m</Description>
+    <NoDataValue le_hex_equiv="000000E0FFFFEFC7">-3.40282346638529E+38</NoDataValue>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">8.9285249710083</MDI>
+      <MDI key="STATISTICS_MEAN">5.7070595586584</MDI>
+      <MDI key="STATISTICS_MINIMUM">3.8652086257935</MDI>
+      <MDI key="STATISTICS_STDDEV">1.111067451055</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">38.29</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
